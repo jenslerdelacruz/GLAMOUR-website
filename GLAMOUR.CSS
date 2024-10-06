@@ -1,0 +1,48 @@
+.head{
+    background-image: url(Picsart_24-09-11_15-15-12-884.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+a {
+    color: rgb(31, 161, 212);
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    clip-path: circle(50% at 50%);
+   }
+   
+
+.mydiv {
+    background-color: #868686;
+    border: 2px solid #868686;
+    padding: 15px;
+}
+
+.div1 {
+    color: white;
+    background-color: #bb235a;
+    border: 1px solid rgb(216, 199, 199);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.div2 {
+    background-color: rgb(206, 123, 195)
+}
+
+.ladiv {
+    background-color: #2b2ba5;
+    border: 2px solid #000079;
+    padding: 15px;
+}
+.background{
+    background-color: #ead8cb;
+}
